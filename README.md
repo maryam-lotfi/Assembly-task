@@ -1,2 +1,2 @@
 # Assembly-task
-This repository shows Genome assembly pipline 
+Whole Genome Sequnecing
